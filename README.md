@@ -1,5 +1,7 @@
 # actions-bazelisk
 
+![build-test](https://github.com/suyash/actions-bazelisk/workflows/build-test/badge.svg)
+
 - Download latest bazelisk depending on platform
 - Add it to tools cache
 - Add it to PATH
